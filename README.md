@@ -1,7 +1,7 @@
 ### Oh hey, I'm Mustafa!👋
 #### I'm a Frontend Developer
 
-## I'm a Developer and Creator!**
+## I'm a Developer and Creator!
 
 - 🔭 I’m currently working on my new project named Twitter-Clone
 - 👯 I’m looking to collaborate on open source
